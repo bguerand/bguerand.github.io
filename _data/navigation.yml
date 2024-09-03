@@ -5,23 +5,29 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "Research statement"
+    url: /research-statement/
+
   - title: "Publications"
     url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+    #url: https://scholar.google.com/citations?user=WIaujGEAAAAJ
+      
   - title: "CV"
-    url: /cv/
+    #url: /cv/
+    url: /files/Benoit_Guerand_resume_2024.pdf
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Talks"
+   # url: /talks/    
+
+  #- title: "Teaching"
+   # url: /teaching/    
+    
+  #- title: "Portfolio"
+   # url: /portfolio/
+        
+  #- title: "Blog Posts"
+  #  url: /year-archive/
+
+    
+  #- title: "Guide"
+   # url: /markdown/
