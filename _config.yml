@@ -21,7 +21,7 @@ repository               : "bguerand/benoit-guerand.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile picture.jpg"
   name             : "Benoît Guérand"
   pronouns         : # example: "she/her"  
   bio              : "Machine learning graduate and former pro water-polo player"
