@@ -12,9 +12,9 @@ title                    : "Benoît's homepage"
 title_separator          : "-"
 name                     : &name "Benoît Guérand"
 description              : &description "Machine Learning graduate and former pro water-polo player"
-url                      : https://bguerand.github.io/benoit-guerand.github.io/ #https://benoit-guerand.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://bguerand.github.io/ #https://benoit-guerand.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "bguerand/benoit-guerand.github.io"
+repository               : "bguerand/bguerand.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
